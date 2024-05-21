@@ -25,9 +25,9 @@ date: 2024-05-21
   Updated on {{ date | niceDate }}
 </p>
 
-## Profile
+## Design Technologist / UX Engineer
 
-Senior User Experience Engineer and Design Technologist with over 25 years of experience specializing in web design, development, and product design. Proven expertise in creating intuitive user interfaces, ensuring web accessibility, and managing high-performing design teams. Recognized for developing industry-leading user experiences and pioneering disruptive LegalTech products.
+Senior User Experience Engineer and Design Technologist with 25+ years of expertise in web and product design and engineering. Skilled in creating intuitive interfaces, ensuring accessibility, and leading high-performing design teams. Known for developing industry-leading user experiences and pioneering disruptive LegalTech products.
 
 ## Professional Experience
 
@@ -35,27 +35,27 @@ Senior User Experience Engineer and Design Technologist with over 25 years of ex
 
 <p class="meta meta--left"><a href="https://logikcull.com">Logikcull</a> &mdash; 2010 to Present</p>
 
-- Led the design and UI development of a disruptive LegalTech product from its inception.
-- Collaborated extensively across engineering, product, and design departments, working directly with VPs and C-level staff.
-- Executed feature development, customer interviews, and product roadmap formation.
-- Managed a high-performing design team, ensuring excellence in all deliverables
-- As an expert in UX Design, HTML and CSS, served as the primary UX/UI for 50+ engineers, enhancing the user experience across countless projects and features.
-- Led the Accessibility Champions program, raising inclusivity to the forefront of the design and development process
-- Worked extensively in HTML, CSS, Javascript, React, as well as legacy BackboneJS/Marionette applications.
+- Led design and UI development of a disruptive LegalTech product from inception.
+- Collaborated with engineering, product, and design teams, including VPs and C-level staff, while effectively communicating across the company and with customers.
+- Managed feature development, customer interviews, and product roadmap.
+- Oversaw a high-performing design team, ensuring excellence in deliverables.
+- Served as the primary UX/UI expert for 50+ engineers, enhancing user experience across numerous projects.
+- Led the Accessibility Champions program, promoting inclusivity in design and development.
+- Worked extensively with HTML, CSS, JavaScript, React, and legacy BackboneJS/Marionette applications.
 
 ### Freelance UX/UI Designer &amp; Developer
 
 <p class="meta meta--left">Self Employed &mdash; April 2006 to October 2010</p>
 
-- Offered consultancy services for diverse early-stage Y-Combinator startups in San Francisco.
-- Delivered high-quality design and front-end build for products including music tools, news outlets, hiring platforms, and gaming sites.
+- Consulted for early-stage Y-Combinator startups in San Francisco.
+- Delivered high-quality design and front-end builds for music tools, news outlets, hiring platforms, and gaming sites.
 
 ### Web Designer
 
 <p class="meta meta--left">Jarvis PLC / Agilisys Ltd &mdash; June 2001 to March 2010</p>
 
-- Designed, developed, and maintained web and intranet sites catering to an organization of over 8000 staff in the railways and infrastructure industries
-- Ensured consistent brand representation and user-friendly navigation across properties and products.
+- Designed, developed, and maintained web and intranet sites for an organization with 8000+ staff in the railways and infrastructure industries.
+- Ensured consistent brand representation and user-friendly navigation across all properties and products.
 
 ## Education
 
@@ -65,4 +65,4 @@ Senior User Experience Engineer and Design Technologist with over 25 years of ex
 
 ## Personal Interests
 
-In my time away from the screen, I’m a <a href="https://petelambertmusic.com" rel="me">professional musician</a> releasing original music and performing around the UK. You can find me on your favourite streaming platform. I’m also a keen offroad cyclist, gym goer and paddleboarder.
+In my time away from the screen, I’m a <a href="https://petelambertmusic.com">professional musician</a> releasing original music and performing around the UK. You can find me on your favourite streaming platform. I’m also a keen offroad cyclist, gym goer and paddleboarder.
