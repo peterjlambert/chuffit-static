@@ -3,7 +3,7 @@ backend:
   branch: latest
   repo: peterjlambert/petelambert.com
 display_url: https://petelambert.com
-media_folder: public/assets
+media_folder: src/public/assets
 public_folder: /assets
 publish_mode: editorial_workflow
 collections:
