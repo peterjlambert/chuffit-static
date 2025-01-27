@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Pete Lambert
-headline: 👋 Hello, you
+headline: Hello, I'm Pete.
 description: The personal website of Pete Lambert. This is where things land
   when they fall out of my head.
 keywords:
