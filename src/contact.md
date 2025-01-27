@@ -33,8 +33,8 @@ I'm a sociable kind of guy. Feel free to get in touch for a chat.
 
 <h3 class="meta meta--left">My Photography</h3>
 
-* [Instagram](https://instagram.com/petesotherlife)
-* [Glass](https://glass.photo/petesotherlife)
+* [Pete Lambert on Instagram](https://instagram.com/petesotherlife)
+* [Pete Lambert on Glass](https://glass.photo/petesotherlife)
 
 <h3 class="meta meta--left">Github</h3>
 
