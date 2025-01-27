@@ -21,20 +21,21 @@ keywords:
   - links
 layout: page
 ---
-Get in touch by email or social media.
+I'm a sociable kind of guy. Feel free to get in touch for a chat.
 
 <h3 class="meta meta--left">Email</h3>
 
 [{{meta.email}}](mailto:{{meta.email}})
 
-<h3 class="meta meta--left">Mastodon</h3>
+<h3 class="meta meta--left">My music stuff</h3>
 
-[{{meta.mastodon.server}}/{{meta.mastodon.handle}}](https://{{meta.mastodon.server}}/{{meta.mastodon.handle}})
+[Pete Lambert Music]({{meta.music}})
+
+<h3 class="meta meta--left">My Photography</h3>
+
+* [Instagram](https://instagram.com/petesotherlife)
+* [Glass](https://glass.photo/petesotherlife)
 
 <h3 class="meta meta--left">Github</h3>
 
 [{{meta.github}}](https://github.com/{{meta.github}})
-
-<h3 class="meta meta--left">My music stuff</h3>
-
-[Pete Lambert Music]({{meta.music}})
